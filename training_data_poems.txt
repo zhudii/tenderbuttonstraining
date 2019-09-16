@@ -59,7 +59,6 @@ I asked Jeet and Babu to answer the question.
 “I would say they’re small decorative particles,” said Jeet. “But that’s not really correct because there are other small decorative particles.”
 His father’s answer was simpler: “Since we’re a glitter manufacturer, anything we do is now called ‘glitter.’”
 So that’s what it is.
-GLAZED MAPLE APPLE CAKE
 This Glazed Maple Apple Cake is a moist and delicious dessert perfect for the fall season, with apples throughout and coated with a maple glaze that tastes like toffee!
 Glazed Maple Apple Cake in baking pan
 Maple syrup will forever remind me of my Nan.
@@ -83,7 +82,6 @@ Keyword: apple cake, maple apple cake
 Servings: 12
 Calories: 382 kcal
 Ingredients
-For the Cake
 1 1/3 cups packed brown sugar
 1/2 cup unsalted butter , melted and cooled
 1/3 cup maple syrup
@@ -98,7 +96,6 @@ For the Maple Glaze
 1/3 cup maple syrup
 1/4 cup packed brown sugar
 1/4 cup chopped pecans
-Directions
 Preheat oven to 350 degrees F. Line a 13x9-inch baking dish with parchment paper, letting the ends extend up the sides.
 In a large bowl with an electric mixer, beat the brown sugar, melted butter, syrup, and vanilla until blended.
 Add in eggs. Then add in the flour, salt, and baking soda.
@@ -148,19 +145,6 @@ Today In: Small Business
 You arrive home with endless packets of paper. From a work meeting, you file those papers away forever or throw them into the garbage can. 
 If you have homework, you might push it aside until the last minute because the dread of reading and remembering endless terms is the last thing you want to do.
 Whether you’re leaving school or work, you now have a headache that is draining, you're starving, and your brain feels exhausted and empty. 
-And, like most people, you have no desire to go back. 
-Effective teaching
-Most effective educators know that students learn best when they:
-Feel safe
-Are empathetic
-Let all students share their voices in a safe place
-Understand a student’s background knowledge
-Can personally relate to the information
-Are actively engaged
-Feel emotion
-Get enough exercise, nutrition and sleep
-Are not labeled
-What are we missing?
 Most teachers and students don’t understand the most critical part of learning: how the brain works, and how we can use it to apply real learning and deep understanding.
 Because of this lack of information, when teachers use traditional methods of teaching, learning can feel like a chore.
 It’s not your fault as a teacher or trainer
@@ -240,30 +224,6 @@ The resilient steel-head salmon came back year after year to try to scale the ma
 Shulman: The second project?
 The second project was also a vast engineering airplane project. 
 The airplane project was a hefty learning science investigation into unlearning and shift-tasking with engineers in an airplane company that had gambled the barn on a shift from metals to composites. 
-Shulman: What did you discover?
-O'Mahony: Surprising situations coalesced to excite a cascade of modeling events and methodological constructs that were grounded in both projects. At times, deep in labyrinthine thought in the largest factory in the world, ideas emerged that shed light on learning models.
-Imagine my shock when I discovered that I had spent 30 years in education, and yet I knew hardly anything about the one organ that teachers must use every day. 
-The sad part was that what I thought I knew about the brain was wrong. I held the same misconceptions and neuro myths that I find most parents and teachers hold today. 
-I knew I only used about 10% of my brain, and I was convinced that I had done a lot of damage to my mind because of my party lifestyle when I was in my late teens and early 20s. 
-I was blind to the one thing that would have made my life as a teacher easier and more successful.
-How could we have missed brain all these years? It is a staggering omission in our learning world. 
-In retrospect, it is a mind-boggling quandary. Teachers who most need this organ are asked to change the lives of children who must use this organ. And today, we are still not training teachers in even the most rudimentary structures or functions of the said organ. 
-Shulman: You founded The Institute for Connecting Neuroscience with Teaching and Learning. Can you tell me more about it?
-O'Mahony: I founded "The Institute for Connecting Neuroscience with Teaching and Learning" when it became apparent to me that the knowledge that emerged in the classroom when I taught education graduates in a seminar of that name (Connecting Neuroscience with Teaching and Learning) was critical for all teachers who would enter the profession. 
-Shulman: What did you notice?
-O'Mahony: It soon became apparent that teachers who were typically struggling to reconcile their professional training with realities on the front lines were sorely in need of this information and methodologies as well.
-The Institute for Connecting Neuroscience with Teaching and Learning (iCNtl) was both an asset and an albatross. 
-Shulman: How did people react to the project?
-O’Mahony: "It's too long, too academic, or it's too something." These were a few of the responses from teachers and volunteers who were struggling to launch a new program—online as well as face-to-face. 
-Shulman: What did you do?
-O’Mahony: After arguments and discussions, everyone agreed that Neural Education was a much more appropriate name for reaching teachers and letting people know what we were about right from the get go. 
-However, we are doing our business as Neural Education. It makes everything much more palatable with websites, marketing materials, and branding.
-Shulman: Can you give me a snapshot of Neural Education for educators who might be interested?
-O’Mahony: We connect neuroscience with teaching and learning. We run institutes in professional development for teachers, and workshops for parents. 
-Shulman: How about the content?
-Teaching with teachers
-Heritage University, 2019DR. KIERAN O'MAHONY
-O’Mahony: Typically, the 3Rs of the model (Reflect, Revised Thinking, and Report Out) carry the day, thus accomplishing what all great teachers desire—excellent engagement, and personalized learning with deep understanding. 
 Kids are happy, mom and pop are ecstatic, the principal is delighted, the superintendent is harmonious, and teachers are stress-free. They know tests will come easy for their kids.
 We accomplish what we do without advertising, marketing, or trumpet blare. When a child is performing at peak, and achieving full potential teachers talk. 
 Neural Educators teach by understanding how the human brain works and how children learn. 
@@ -352,7 +312,6 @@ Most victims don't know how cybercriminals use their stolen data. One way to und
 Copper thieves use crowbars and wrenches. Cybercriminals use programs that exploit software vulnerabilities and automatically test millions of passwords to opportunistically take over online accounts. Copper thieves find industrial middlemen to sell their wares, while cybercriminals find underground marketplaces to connect to other criminals who specialize in using stolen data in different ways. Addresses and birth dates are used in identity fraud, such as applying for loans. Stolen credit cards can be used to make fraudulent purchases, and stolen passwords are keys providing entry to other accounts, that when compromised, enable criminals to empty bank accounts or turn gift cards into cash.
 Cutting Off the Supply
 Curbing the trade of stolen copper is easier than cutting off the supply of stolen data. With copper, law enforcement goes after the resellers, fining them when stolen materials are found in their possession. For data, the mitigation options vary considerably depending on the type of information that is exposed.
-With stolen credit cards, the damage can actually be somewhat contained. Increased EMV (chip-based) adoption and improved fraud-detection helps limit the impact of any given breach of credit card data.
 Personal data being in the wrong hands is harder to mitigate. You can't change your birth date. Your physical address is often publicly available information, accessible to cybercriminals with no data breach required. The fact that these data types, as well as "security questions" like mother's maiden name, are still commonly relied on for authentication purposes reveals a systemic problem that must be addressed.
 Credential theft (e.g., stolen email addresses and passwords) is the most pernicious and least understood type of breach. Most people have lost track of all of the different places where they have reused passwords. You can't blame them: The average user has more than 100 accounts with various websites, apps, and services that they have created over time. This means that cybercriminals using automated fraud tools in credential stuffing attacks have a reliable rate of success when they try passwords from one site against another, often around 2%. With only 1 million stolen passwords from any one website, a criminal can quickly take over tens of thousands of accounts on a completely unrelated website and repeat this on other sites to ultimately breach more accounts than the original breach.
 Protecting the Data
@@ -441,8 +400,6 @@ An auction house in Sussex that has been forced to withdraw a Maori shawl that i
 London (CNN)A small British auction house has withdrawn from sale a rare Maori cloak which apparently once belonged to a tribal chief, after receiving online intimidation and insults.
 Burstow & Hewett, in the Sussex town of Battle, were subject to "the worst kind of threats," which they eventually reported to the police, according to managing partner Mark Ellin.
 The firm and their clients who own the cloak -- traditionally referred to as a kakahu -- were subjected to a "barrage" of angry responses after a piece about the historic artifact aired on New Zealand TV last month.
-Air New Zealand threatened with Māori boycott over attempt to trademark &#39;Kia Ora&#39; logo
-Air New Zealand threatened with Māori boycott over attempt to trademark 'Kia Ora' logo
 Steve and Mary Squires discovered the garment -- made from hand-woven flax and cotton with a dyed geometric border -- at the back of a cupboard last year, where it had stayed folded for "at least 100 years," according to Mary. As such, its bright colors are almost as good as new.
 What made it even more special was an attached handwritten note, which read: "Maori mat worn by the Chief Rewi when peace was declared between Maoris and Europeans after the Battle of Orakau," according to a press release from Burstow & Hewett.
 The couple described how they researched the family history and stumbled across a Thomas Grice, who was recorded as spending time with Chief Rewi in the years after the Maori wars, between 1845 and 1872.
@@ -451,7 +408,6 @@ The handwritten note that was attached to the shawl.
 In the TV clip, the couple expressed a desire to see the cloak return to New Zealand. "We would love it to go back to New Zealand, but not necessarily as a gift," said Steve.
 This was not unreasonable, Ellin told CNN: "They traced their family back and found that one of their ancestors traveled around with the chief -- they are the rightful owners. It has been in their family since it was given to them by the chief -- there's no question that it was ever stolen."
 What seemed like a good opportunity for some publicity completely backfired, according to Ellin.
-The shawl had remained in a cupboard for more than 100 years, so its colours remain undimmed.
 The shawl had remained in a cupboard for more than 100 years, so its colours remain undimmed.
 "We were bombarded as soon as it was on TV. We were absolutely barraged with emails and Facebook abuse and trolling... Threats against us and the couple, saying 'we know where they live' and threatening to burn our business down."
 One piece of correspondence even referenced the Mongrel Mob, a notorious criminal gang in New Zealand. Ellin described the messages as "the sort of thing you would be frightened to read if it was about you."
@@ -843,121 +799,3 @@ yes and then he asked me would I yes to say yes my mountain flower and
 first I put my arms around him yes and drew him down to me so he could
 feel my breasts all perfume yes and his heart was going like mad and
 yes I said yes I will Yes.
-Under certain circumstances there are few hours in life more agreeable
-than the hour dedicated to the ceremony known as afternoon tea. There
-are circumstances in which, whether you partake of the tea or not--some
-people of course never do,--the situation is in itself delightful. Those
-that I have in mind in beginning to unfold this simple history offered
-an admirable setting to an innocent pastime. The implements of
-the little feast had been disposed upon the lawn of an old English
-country-house, in what I should call the perfect middle of a splendid
-summer afternoon. Part of the afternoon had waned, but much of it was
-left, and what was left was of the finest and rarest quality. Real dusk
-would not arrive for many hours; but the flood of summer light had begun
-to ebb, the air had grown mellow, the shadows were long upon the smooth,
-dense turf. They lengthened slowly, however, and the scene expressed
-that sense of leisure still to come which is perhaps the chief source
-of one’s enjoyment of such a scene at such an hour. From five o’clock to
-eight is on certain occasions a little eternity; but on such an occasion
-as this the interval could be only an eternity of pleasure. The persons
-concerned in it were taking their pleasure quietly, and they were not
-of the sex which is supposed to furnish the regular votaries of the
-ceremony I have mentioned. The shadows on the perfect lawn were straight
-and angular; they were the shadows of an old man sitting in a deep
-wicker-chair near the low table on which the tea had been served, and
-of two younger men strolling to and fro, in desultory talk, in front of
-him. The old man had his cup in his hand; it was an unusually large cup,
-of a different pattern from the rest of the set and painted in brilliant
-colours. He disposed of its contents with much circumspection, holding
-it for a long time close to his chin, with his face turned to the house.
-His companions had either finished their tea or were indifferent to
-their privilege; they smoked cigarettes as they continued to stroll.
-One of them, from time to time, as he passed, looked with a certain
-attention at the elder man, who, unconscious of observation, rested his
-eyes upon the rich red front of his dwelling. The house that rose beyond
-the lawn was a structure to repay such consideration and was the most
-characteristic object in the peculiarly English picture I have attempted to sketch.
-It stood upon a low hill, above the river--the river being the Thames at
-some forty miles from London. A long gabled front of red brick, with
-the complexion of which time and the weather had played all sorts of
-pictorial tricks, only, however, to improve and refine it, presented
-to the lawn its patches of ivy, its clustered chimneys, its windows
-smothered in creepers. The house had a name and a history; the old
-gentleman taking his tea would have been delighted to tell you these
-things: how it had been built under Edward the Sixth, had offered a
-night’s hospitality to the great Elizabeth (whose august person had
-extended itself upon a huge, magnificent and terribly angular bed which
-still formed the principal honour of the sleeping apartments), had been
-a good deal bruised and defaced in Cromwell’s wars, and then, under the
-Restoration, repaired and much enlarged; and how, finally, after having
-been remodelled and disfigured in the eighteenth century, it had passed
-into the careful keeping of a shrewd American banker, who had bought it
-originally because (owing to circumstances too complicated to set forth)
-it was offered at a great bargain: bought it with much grumbling at its
-ugliness, its antiquity, its incommodity, and who now, at the end of
-twenty years, had become conscious of a real aesthetic passion for it,
-so that he knew all its points and would tell you just where to stand
-to see them in combination and just the hour when the shadows of
-its various protuberances which fell so softly upon the warm, weary
-brickwork--were of the right measure. Besides this, as I have said,
-he could have counted off most of the successive owners and occupants,
-several of whom were known to general fame; doing so, however, with an
-undemonstrative conviction that the latest phase of its destiny was not
-the least honourable. The front of the house overlooking that portion
-of the lawn with which we are concerned was not the entrance-front; this
-was in quite another quarter. Privacy here reigned supreme, and the wide
-carpet of turf that covered the level hill-top seemed but the extension
-of a luxurious interior. The great still oaks and beeches flung down a
-shade as dense as that of velvet curtains; and the place was furnished,
-like a room, with cushioned seats, with rich-coloured rugs, with
-the books and papers that lay upon the grass. The river was at some
-distance; where the ground began to slope the lawn, properly speaking,
-ceased. But it was none the less a charming walk down to the water.
-The old gentleman at the tea-table, who had come from America thirty
-years before, had brought with him, at the top of his baggage, his
-American physiognomy; and he had not only brought it with him, but he
-had kept it in the best order, so that, if necessary, he might have
-taken it back to his own country with perfect confidence. At present,
-obviously, nevertheless, he was not likely to displace himself; his
-journeys were over and he was taking the rest that precedes the
-great rest. He had a narrow, clean-shaven face, with features evenly
-distributed and an expression of placid acuteness. It was evidently a
-face in which the range of representation was not large, so that the air
-of contented shrewdness was all the more of a merit. It seemed to tell
-that he had been successful in life, yet it seemed to tell also that his
-success had not been exclusive and invidious, but had had much of the
-inoffensiveness of failure. He had certainly had a great experience of
-men, but there was an almost rustic simplicity in the faint smile that
-played upon his lean, spacious cheek and lighted up his humorous eye
-as he at last slowly and carefully deposited his big tea-cup upon the
-table. He was neatly dressed, in well-brushed black; but a shawl was
-folded upon his knees, and his feet were encased in thick, embroidered
-slippers. A beautiful collie dog lay upon the grass near his chair,
-watching the master’s face almost as tenderly as the master took in the
-still more magisterial physiognomy of the house; and a little bristling,
-bustling terrier bestowed a desultory attendance upon the other gentlemen.
-One of these was a remarkably well-made man of five-and-thirty, with a
-face as English as that of the old gentleman I have just sketched was
-something else; a noticeably handsome face, fresh-coloured, fair and
-frank, with firm, straight features, a lively grey eye and the rich
-adornment of a chestnut beard. This person had a certain fortunate,
-brilliant exceptional look--the air of a happy temperament fertilised by
-a high civilisation--which would have made almost any observer envy him
-at a venture. He was booted and spurred, as if he had dismounted from a
-long ride; he wore a white hat, which looked too large for him; he
-held his two hands behind him, and in one of them--a large, white,
-well-shaped fist--was crumpled a pair of soiled dog-skin gloves.
-His companion, measuring the length of the lawn beside him, was a person
-of quite a different pattern, who, although he might have excited
-grave curiosity, would not, like the other, have provoked you to wish
-yourself, almost blindly, in his place. Tall, lean, loosely and feebly
-put together, he had an ugly, sickly, witty, charming face, furnished,
-but by no means decorated, with a straggling moustache and whisker. He
-looked clever and ill--a combination by no means felicitous; and he wore
-a brown velvet jacket. He carried his hands in his pockets, and there
-was something in the way he did it that showed the habit was inveterate.
-His gait had a shambling, wandering quality; he was not very firm on
-his legs. As I have said, whenever he passed the old man in the chair he
-rested his eyes upon him; and at this moment, with their faces brought
-into relation, you would easily have seen they were father and son.
-The father caught his son’s eye at last and gave him a mild, responsive smile.
